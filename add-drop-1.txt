@@ -1,0 +1,81 @@
+Student_59 0 C
+Student_75 0 A C B
+Student_45 0 E G
+Student_49 0 F C A
+Student_59 1 A G E
+Student_75 1 G F E
+Student_45 1 A F H
+Student_61 0 B
+Student_49 1 G B H
+Student_60 0 A B
+Student_61 1 G H C
+Student_53 0 C H
+Student_60 1 G H E
+Student_39 0 E B
+Student_79 0 G B
+Student_53 1 A F E
+Student_39 1 A F C
+Student_79 1 F H E
+Student_7 0 D H C
+Student_57 0 F
+Student_31 0 C D E
+Student_76 0 B
+Student_77 0 B C
+Student_7 1 A G E
+Student_57 1 A G E
+Student_23 0 G H A
+Student_31 1 A G F
+Student_76 1 F C D
+Student_77 1 A G D
+Student_32 0 H
+Student_12 0 F A
+Student_50 0 F E D
+Student_23 1 B E D
+Student_63 0 D C
+Student_43 0 H E
+Student_32 1 A F B
+Student_52 0 E D C
+Student_12 1 G H C
+Student_50 1 A G H
+Student_68 0 F G D
+Student_63 1 F H E
+Student_43 1 B C D
+Student_52 1 A F H
+Student_14 0 A E C
+Student_68 1 A H C
+Student_36 0 C D
+Student_14 1 G B D
+Student_36 1 F B E
+Student_15 0 B E F
+Student_3 0 F E A
+Student_15 1 A H D
+Student_3 1 G H C
+Student_65 0 E D C
+Student_25 0 F E
+Student_72 0 B
+Student_4 0 C H
+Student_64 0 A F
+Student_65 1 A G F
+Student_67 0 B G C
+Student_26 0 B C
+Student_25 1 A G B
+Student_2 0 A G H
+Student_72 1 F H C
+Student_4 1 G B D
+Student_30 0 E
+Student_64 1 H C D
+Student_5 0 B
+Student_67 1 F H D
+Student_26 1 A G E
+Student_2 1 F B E
+Student_78 0 C A G
+Student_30 1 A G C
+Student_5 1 A F H
+Student_78 1 B H D
+Student_73 0 A
+Student_73 1 G F H
+Student_41 0 E
+Student_55 0 E B C
+Student_41 1 G B C
+Student_55 1 G F H
+Student_1 0 A E F D C

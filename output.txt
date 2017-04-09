@@ -1,0 +1,81 @@
+Student_1 0.0 
+Student_2 C D F B E 8.0 
+Student_3 B D G H C 8.0 
+Student_4 F E A G B D 12.0 
+Student_5 G E C D A F H 17.0 
+Student_6 G F H E D 20.0 
+Student_7 F B A G E 8.0 
+Student_8 E H G C F 20.0 
+Student_9 E H G A F 20.0 
+Student_10 A D G F E 20.0 
+Student_11 B F D G A 20.0 
+Student_12 B D E G H C 12.0 
+Student_13 H C D G A 20.0 
+Student_14 H F G B D 8.0 
+Student_15 C G A H D 8.0 
+Student_16 E H F A C 20.0 
+Student_17 D G F B H 20.0 
+Student_18 A B D F E 20.0 
+Student_19 A B E G C 20.0 
+Student_20 H C A G E 20.0 
+Student_21 H C B D E 20.0 
+Student_22 D F H A B 20.0 
+Student_23 F C B E D 8.0 
+Student_24 F D G H B 20.0 
+Student_25 C D H A G B 12.0 
+Student_26 F D H A G E 12.0 
+Student_27 F A D C B 20.0 
+Student_28 E H C B G 20.0 
+Student_29 C H F D B 20.0 
+Student_30 D B H F A G C 17.0 
+Student_31 B H A G F 8.0 
+Student_32 G E D C A F B 17.0 
+Student_33 H G B E F 20.0 
+Student_34 D G H F E 20.0 
+Student_35 A D E F B 20.0 
+Student_36 A H G F B E 12.0 
+Student_37 D C B E F 20.0 
+Student_38 F A C D G 20.0 
+Student_39 D H G A F C 12.0 
+Student_40 D G A B H 20.0 
+Student_41 H A D F G B C 17.0 
+Student_42 D H B G F 20.0 
+Student_43 A G F B C D 12.0 
+Student_44 B D A F H 20.0 
+Student_45 B D C A F H 12.0 
+Student_46 B H G A C 20.0 
+Student_47 G E D B H 20.0 
+Student_48 G F A E C 20.0 
+Student_49 E D G B H 8.0 
+Student_50 C B A G H 8.0 
+Student_51 B D F C A 20.0 
+Student_52 G B A F H 8.0 
+Student_53 D G B A F E 12.0 
+Student_54 H A E G D 20.0 
+Student_55 A D G F H 8.0 
+Student_56 G E A H D 20.0 
+Student_57 C B D H A G E 17.0 
+Student_58 G D B C A 20.0 
+Student_59 H B F D A G E 17.0 
+Student_60 F D C G H E 12.0 
+Student_61 E D F A G H C 17.0 
+Student_62 E C H A B 20.0 
+Student_63 B A G F H E 12.0 
+Student_64 G E B H C D 12.0 
+Student_65 B H A G F 8.0 
+Student_66 E B F G C 20.0 
+Student_67 E A F H D 8.0 
+Student_68 E B A H C 8.0 
+Student_69 G E A C F 20.0 
+Student_70 A H G B C 20.0 
+Student_71 H E F A D 20.0 
+Student_72 G A E D F H C 17.0 
+Student_73 E B C D G F H 17.0 
+Student_74 G E H F C 20.0 
+Student_75 H D G F E 8.0 
+Student_76 A E H G F C D 17.0 
+Student_77 E F H A G D 12.0 
+Student_78 F E B H D 8.0 
+Student_79 A C D F H E 12.0 
+Student_80 A G F B H 20.0 
+Average preference_score is: 15.575
